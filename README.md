@@ -1,4 +1,4 @@
-## Hi there I am Çağrı👋
+## Hi there I am Çağrı👋  
 
 - I'm currently studying Software Engineering.  
 - I know middle level of Java, and beginner level of C, C++, Html/CSS.  
