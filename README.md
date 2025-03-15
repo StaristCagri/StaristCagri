@@ -2,7 +2,7 @@
 
   
 - I'm currently studying Software Engineering.  
-- I know middle level of Java, and beginner level of C, C++, Html/CSS.  
-- I'm interested in developing games, apps and more.  
-- I like to learn and create.  
-- I have digital drawing hobby.  
+- I know intermediate level of Java, and have a basic understanding of C, C++, Html/CSS.  
+- I'm interested in making games, apps and more.  
+- I enjoy learning and creating.  
+- My hobby is digital drawing.  
